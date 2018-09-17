@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Search News</string>
+    <string name="search_hint">Search Title...</string>
+    <string name="action_search">Search</string>
+    <string name="toolbar_title">Article</string>
+    <string name="toolbar_main_title">Browse Sources</string>
+    <string name="example_title">Eden Hazard Hat-Trick Leads Chelsea Past Cardiff City</string>
+    <string name="data_not_found">Data not found. Please browse another source</string>
+    <string name="not_connect">Request failed. Check your internet connection</string>
+</resources>
